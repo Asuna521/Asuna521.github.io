@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Adachi-BOT部署</title>
+      <link href="/posts/774c307a/"/>
+      <url>/posts/774c307a/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Adachi-BOT部署"><a href="#Adachi-BOT部署" class="headerlink" title="Adachi-BOT部署"></a>Adachi-BOT部署</h1><p><strong>因版本变更时效性问题，当前版本2.3.6，具体详见<a href="https://docs.adachi.top/">官方文档</a></strong>   </p><hr><h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><h3 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h3><p>此次使用Linux，CentOS 7.6 x86_64 (64bit)（纯净版）<br>配置：1H/1G 硬盘10g<br><a href="https://www.bilibili.com/read/cv13331826/">Windows部署见此</a><br>bot运行需要Nodejs和Redis，机器初始化后安装宝塔面板，在软件商店安装Nodejs和Redis（Node.js version &gt;= 12.16，Redis安装完成后更改端口号为56379并运行）  </p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>选择合适的路径下载最新版的Adachi-BOT</p><pre class="line-numbers language-none"><code class="language-none">cd &#x2F;usrgit clone https:&#x2F;&#x2F;ghproxy.com&#x2F;https:&#x2F;&#x2F;github.com&#x2F;SilveryStar&#x2F;Adachi-BOT.git  #下载cd Adachi-BOT&#x2F;#手动创建配置文件#根据[配置](https:&#x2F;&#x2F;docs.adachi.top&#x2F;config&#x2F;)选项中的信息配置 setting.yml 和 cookies.ymlnpm install -g pm2 #全局安装pm2mkdir config &amp;&amp; cd configtouch setting.yml commands.yml cookies.yml#初次启动需在宿主机完成设备验证npm install #安装依赖文件npm run login<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p><code>npm run start #运行</code></p><p><code>pm2 delete adachi-bot #终止bot</code>   </p><p><code>pm2 delete adachi-bot #查看日志</code></p><h3 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h3><pre class="line-numbers language-none"><code class="language-none">git pull  #如果提示本地有更改可通过 git checkout package*.json (一般会改动的都是package-lock.json文件)#如果改的了其他的可用git reset --hard 把本地改过的全部回滚。npm run restart<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p><a href="https://docs.adachi.top/faq/">常见问题</a><br><a href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=ZcZDq&from=246610&biz=ka">Adachi-BOT 官方Q频</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156/"/>
       <url>/posts/4a17b156/</url>
@@ -33,9 +52,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       
@@ -143,9 +162,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       
@@ -170,9 +189,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       
@@ -197,9 +216,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
             <tag> 学习 </tag>
             
@@ -226,9 +245,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       
@@ -247,9 +266,9 @@
       
         <tags>
             
-            <tag> 生活 </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       
