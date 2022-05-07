@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://asuna.site/posts/5ce0ce93/</loc>
+    
+    <lastmod>2022-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://asuna.site/posts/f958adac/</loc>
     
     <lastmod>2022-05-06</lastmod>
@@ -139,7 +148,7 @@
 
   <url>
     <loc>https://asuna.site/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,35 +156,35 @@
   
   <url>
     <loc>https://asuna.site/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://asuna.site/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://asuna.site/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://asuna.site/tags/HTML/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://asuna.site/tags/CSS/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -184,14 +193,14 @@
   
   <url>
     <loc>https://asuna.site/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://asuna.site/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-05-06</lastmod>
+    <lastmod>2022-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
