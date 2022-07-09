@@ -15,8 +15,8 @@ https://asuna.site/about/index.html
 https://asuna.site/tags/index.html
 https://asuna.site/categories/index.html
 https://asuna.site/
-https://asuna.site/tags/%E8%AE%B0%E5%BD%95/
 https://asuna.site/tags/%E7%94%9F%E6%B4%BB/
+https://asuna.site/tags/%E8%AE%B0%E5%BD%95/
 https://asuna.site/tags/%E5%AD%A6%E4%B9%A0/
 https://asuna.site/tags/CSS/
 https://asuna.site/tags/HTML/
